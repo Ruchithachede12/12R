@@ -1,0 +1,46 @@
+#image{
+    width:200px;
+    border-radius: 50%;
+}
+.heading{
+    color:maroon;
+    background-color:lightsteelblue;
+}
+.heading0{
+    color:maroon;
+}
+#p1,#p2{
+    color:rgb(237, 100, 100);
+}
+#p3{
+    color: blueviolet;
+}
+.heading1{
+    color:darkmagenta;
+}
+#p4{
+    color:lightpink;
+}
+.heading3{
+    color:darkblue;
+}
+#p4{
+    color:lightgreen;
+}
+#p5{
+    color:lightsalmon;
+}
+#p6{
+    color:mediumorchid;
+}
+#p7{
+    color:purple;
+}
+table{
+    background-color: deepskyblue;width: 100%;
+}
+
+
+
+
+    
